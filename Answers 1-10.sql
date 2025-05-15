@@ -8,6 +8,8 @@
 --- Note: For reference, refer to question number 3 - mls_week-1_gl-beats_solution.sql. 
  --     You'll get an overview of how to use subquery and windows function from this question
 
+q1. find the highest crime committed each week
+
 select
  crime_type,
 week_number,
